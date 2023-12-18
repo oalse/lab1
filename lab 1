@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> Page Title</title>
+</head>
+
+<body>
+  <h1>Title 1</h1>
+  
+  <p>Text gose here</p>
+  <h1>Heading Test h1</h1>
+  <p>for heading 1</p>
+  
+  <h2>Heading Test h1</h2>
+  <p>for heading 2</p>
+  
+  <h3>Heading Test h1</h3>
+  <p>for heading 3</p>
+  <ol>
+  <li>list number one</li><br>
+  <li>list number two</li><br>
+  <li>list number three</li>
+  </ol>
+  <br>
+  <p>hyper link test below</p>
+  <a href="https://www.google.com/">google website</a><br>
+  <br>
+  <button>button test</button><br>
+  <br>
+  <footer>This is lab 1</footer>
+</body>
+</html>
